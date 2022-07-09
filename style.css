@@ -1,0 +1,33 @@
+.display{
+    color: rgb(252, 252, 252);
+    align-items: center;
+}
+
+.calculator{
+    align-content: center;
+    background-color: rgb(58, 58, 58);
+    width: 130px;
+    padding: 10px;
+}
+
+button{
+    background-color: rgb(159, 170, 180);
+    border: 1px solid rgb(159, 170, 180);
+    border-radius: 50%;
+    width: 25px;
+    padding: 2px;
+    margin: 2px;
+    align-items: center;
+    color: rgb(252, 252, 252);
+}
+
+.equals{
+    width: 120px;
+    border-radius: 10px;
+    color: rgb(7, 7, 7);
+}
+.operator{
+    background-color: rgb(253, 168, 9);
+    border: 1px solid rgb(253, 168, 9);
+    
+}
